@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  max-width: 600px;
+  height: 70vh;
+  margin: 0;
+  font-family: Helvetica;
+  padding: 50px 0;
+}
+
+header p {
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: Tahoma;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h3 {
+  max-width: 100%;
+  font-family: verdana, Tahoma;
+  padding: 25px 0px;
+  margin-left: 50px;
+}
+
+#image {
+  width: 550px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+}
+
+figcaption {
+  width: 475px;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#tribute-info {
+  max-width: 100%;
+}
+
+#tribute-info li {
+  margin: 25px 0 25px 75px;
+}
+
+#tribute-info p {
+  margin: 25px 100px;
+  font-style: italic;
+}
